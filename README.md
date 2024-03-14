@@ -1,0 +1,21 @@
+Drone Project
+This project aims to test my skills, and while it's not fully completed, it's almost there. The only missing component is the 3D file for the drone's shell. This drone will be open source, allowing for modularity. There will be a mount under the shell for attaching compatible objects.
+
+Planned Features
+Stable flight even in light winds
+Recording flight history
+Currently, the code only allows for theoretical flight as it hasn't been tested yet. However, the open-source nature of the drone allows for adding additional functionalities.
+
+Installation
+Installation is straightforward:
+
+Purchase the components listed in the purchase file (achat.ods).
+Connect the circuits as shown in the PDF file (Drone_Shematic.pdf).
+Print the drone shell and controller shell using a 3D printer.
+Upload the code to each Arduino Uno.
+Have fun!
+Contributions and Support
+If you wish to support or contribute to this project, feel free to contact me at the following email address: rubertmathis2@gmail.com. Any suggestions or assistance are welcome.
+
+Author
+Mathis Rubert
